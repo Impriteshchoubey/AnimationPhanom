@@ -1,6 +1,6 @@
 
 
-import './App.css'
+// import './App.css'
 import Phanom from './components/Phanom'
 
 

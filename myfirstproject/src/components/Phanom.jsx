@@ -1,5 +1,5 @@
 
-
+import './Phanom.css'
 
 
 function Phanom() {
